@@ -34,8 +34,7 @@ O painel foi criado para fornecer **insights visuais e intuitivos** sobre métri
 ```
 📁 Dashboard-Bite-Speed
  ┣ 📊 Dashboard Bite Speed.pbix
- ┣ 📄 README.md
- ┗ 📁 Dados (opcional - se quiser incluir os arquivos fonte)
+ ┗ 📄 README.md
 ```
 
 ---
